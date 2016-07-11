@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Simple Sidebar - Start Bootstrap Template</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/simple-sidebar.css" rel="stylesheet">
+    <link href="css/progress.css" rel="stylesheet">
+    <link href="css/button.css" rel="stylesheet">
+    <link href="css/leader.css" rel="stylesheet">
+    <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load("current", {packages:["corechart"]});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+           ['Task', 'Investments'],
+          ['Microedit',     200],
+          ['Education',      600],
+          ['Sanitation',  400],
+          ['Staff loans', 200],
+          ['Microventure',    100]
+        ]);
+
+        var options = {
+          title: 'Investments',
+          is3D: true,
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('piechart_3d'));
+        chart.draw(data, options);
+      }
+    </script>
+</head>
+<body>
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="">
+                        Hi User!
+                    </a>
+                </li>
+                <li>
+                    <a href="" >Leaderboard</a>
+                </li>
+                <li>
+                   <a href="active">Report</a>
+                </li>
+                <li>
+                    <a href="#">Success Stories</a>
+                </li>
+                <li>
+                    <a href="#">Discussion Forum</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                    <h1> Trend report.</h1>
+                    <div id="piechart_3d" style="width: 900px; height: 500px;"></div>
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+
+</body>
+
+</html>
+
+

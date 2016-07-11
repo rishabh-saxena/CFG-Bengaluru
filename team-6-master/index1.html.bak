@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<!-- START PAGE SOURCE -->
+
+  <!--<div id="contentwrap">-->
+     
+    <div id="mainpage"><br/>
+    <center><b style="color:##fed136;font-size:24px;">Impact stories</b></center><br/>
+      <div id="threecolumns">
+        <div class="col1">
+          <div class="ftbox">
+            <div class="ftbox1"></div>
+            <div class="ftcontent">
+              <div class="post">
+                <h2><a href="1.html">RAJAVARAM P</a></h2>
+                <img src="images/38103286.gif" width="270" height="140" alt="" class="hboxthumb" />
+                <p> Rajavairam is a 49 years old grocer,Resident of
+Arasadikuppam, Tamil Nadu</p>
+                <span class="readmore"><a href="1.html">Read More</a></span> </div>
+            </div>
+            <div class="ftbox2"></div>
+          </div>
+          <div class="ftbox">
+            <div class="ftbox1"></div>
+            <div class="ftcontent">
+              <div class="post">
+                <h2>MALABAI LAXMAN MUJMULE</h2>
+                <img src="images/86371344.gif" width="270" height="140" alt="" class="hboxthumb" />
+                <p> Malabai Laxman Mujmule opened her own grocery business 5 years ago with old parents to support and a little education</p>
+                <span class="readmore"><a href="2.htm">"Read More</a></span> </div>
+            </div>
+            <div class="ftbox2"></div>
+          </div>
+          
+        </div>
+        <div class="col2">
+          <div class="ftbox">
+            <div class="ftbox1"></div>
+            <div class="ftcontent">
+              <div class="post">
+                <h2><a href=".html">MANJUNATHA H C</a></h2>
+                <img src="images/85517237.gif" width="270" height="140" alt="" class="hboxthumb" />
+                <p>Manjunatha H C of Mysore district in Karnataka has been running a mobile canteen for about 10 years</p>
+                <span class="readmore"><a href="5.html">Read More</a></span> </div>
+            </div>
+            <div class="ftbox2"></div>
+          </div>
+		  <br/>
+          <div class="ftbox">
+            <div class="ftbox1"></div>
+            <div class="ftcontent">
+              <div class="post">
+                <h2>YASMINBANO SAYAD AJAHAR</h2>
+                <img src="images/13411266.gif" width="270" height="140" alt="" class="hboxthumb" />
+                <p>Yasmin is the quintessential example of how micro-entrepreneurs might not get the media glare that they deserve</p>
+                <span class="readmore"><a href="6.html">Read More</a></span> </div>
+            </div>
+            <div class="ftbox2"></div>
+          </div>
+          
+            <div class="ftbox2"></div>
+          </div>
+        </div>
+        <div class="col3">
+          <div class="ftbox">
+            <div class="ftbox1"></div>
+            <div class="ftcontent">
+              <div class="post">
+                <h2><a href="5.html">INDRA RAJA</a></h2>
+                <img src="images/26787355.gif" width="270" height="140" alt="" class="hboxthumb" />
+                <p>INDRA RAJA, a resident of Karnataka took an education loan for her kids to send to school</p>
+                <span class="readmore"><a href="4.htm">Read More</a></span> </div>
+            </div>
+            <div class="ftbox2"></div>
+          </div>
+          <div class="ftbox">
+            <div class="ftbox1"></div>
+            <div class="ftcontent">
+              <div class="post">
+                <h2>KASTURI VERMA</h2>
+                <img src="images/75861117.gif" width="270" height="140" alt="" class="hboxthumb" />
+                <p> Kasturi Verma from Madhya Pradesh has been supplementing her family income by running a tailoring business from home</p>
+                <span class="readmore"><a href="3.html">Read More</a></span> </div>
+            </div>
+            <div class="ftbox2"></div>
+          </div>
+          
+            <div class="ftbox2"></div>
+          </div>
+        </div>
+        <div class="clear"></div>
+      </div>
+   
+   
+<!-- END PAGE SOURCE -->
+</body>
+</html>

@@ -1,0 +1,58 @@
+*referal
+*success stories
+*videos
+*share on social media for credits
+*know who are current investers and leverage offers for them so they bring in new ones
+*visual statistics
+*feel good thing.
+*hand written letter
+*visually user is aware where his money goes.
+*talking about investers page
+
+
+---------------------------------------------------------------------------
+
+1)solution to procrastination
+2)investor page story publication
+3)interaction with existing users
+4)emphasize on impact with no charity
+5)reminders(less priority coz wud be for existing users)
+6)track impact and show them nicely
+7)gift cards
+8)transparency
+9)remind users about new fields of borrowers.
+10)stars or category ui bar fields these many points to go.
+
+---------------------------------------------------------------------------
+
+* awareness (for new users)
+	->not signed up
+		# make interaction with existing investors possible
+		# emphasize on "impact with no charity"
+		# referal
+		# remind users about new fields of borrowers
+		# transparency
+		# track impact and show them nicely(here comes the interaction with existing investor).
+		# solution to procrastination
+
+	->signed in but not an investor
+		# reminders
+		# reports email
+
+* reinvestment(for existing users)
+	->an investor
+		# where my money goes/ did i make a difference
+
+Feel free to add/modify.
+we will wind up this soon.
+
+hi
+Shortlist them and we will find a way of combining them into an application
+---------------------------------------------------------------------------
+Work division:
+koushal:
+	sign in page
+		client side validation.
+manaswitha:
+	home page
+			
